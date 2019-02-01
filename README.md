@@ -2,12 +2,6 @@
 
 <br>
 
-<div align="center">
-<img src="media/awesome_logo.png" alt="Awesome">
-  <br>
-  <br>
-</div>
-
 [<img src="media/LaunchDarkly_Icon_Navy.svg" align="right" width="100">](https://launchdarkly.com)
 
 > a curated list of how to dark launch
