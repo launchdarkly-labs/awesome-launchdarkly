@@ -81,22 +81,18 @@
 
 * [Embracing real-time feature toggling in your React application](https://techblog.commercetools.com/embracing-real-time-feature-toggling-in-your-react-application-a5e6052716a9)
 
-* [Playing with Feature Flags and LaunchDarkly](https://wouterdekort.com/2016/05/23/playing-feature-flags-launchdarkly/)
+- [Sitecore and Feature Flags using LaunchDarkly](https://briancaos.wordpress.com/2017/03/31/sitecore-and-feature-flags-using-launchdarkly/)
 
-* [Feature Flagging With LaunchDarkly](http://www.mercurynewmedia.com/blog/mercury-new-media-blog/2017/06/02/feature-flagging-with-launchdarkly)
+- [Feature Flag-Driven Development](https://dzone.com/articles/feature-flag-driven-development)
 
-* [Sitecore and Feature Flags using LaunchDarkly](https://briancaos.wordpress.com/2017/03/31/sitecore-and-feature-flags-using-launchdarkly/)
+- [What's the cost of feature flags?](https://opensource.com/article/18/7/does-progressive-exposure-really-come-cost)
 
-* [Feature Flag-Driven Development](https://dzone.com/articles/feature-flag-driven-development)
+- [How we checked and fixed the 503 error and Performance issue in our Azure Function](https://blogs.msdn.microsoft.com/visualstudioalmrangers/2018/04/03/how-we-checked-and-fixed-the-503-error-and-performance-issue-in-our-azure-function/)
 
-* [What's the cost of feature flags?](https://opensource.com/article/18/7/does-progressive-exposure-really-come-cost)
+- [When Feature Flags Go Wrong](https://www.infoq.com/articles/feature-flags-gone-wrong) - Power Peg
+- [Knight Capital](https://hackernoon.com/the-rise-and-fall-of-knight-capital-buy-high-sell-low-rinse-and-repeat-ae17fae780f6)
 
-* [How we checked and fixed the 503 error and Performance issue in our Azure Function](https://blogs.msdn.microsoft.com/visualstudioalmrangers/2018/04/03/how-we-checked-and-fixed-the-503-error-and-performance-issue-in-our-azure-function/)
-
-* [When Feature Flags Go Wrong](https://www.infoq.com/articles/feature-flags-gone-wrong) - Power Peg
-* [Knight Capital](https://hackernoon.com/the-rise-and-fall-of-knight-capital-buy-high-sell-low-rinse-and-repeat-ae17fae780f6)
-
-* [Designing for Failure to Avoid Disaster](https://launchdarkly.com/blog/designing-for-failure-to-avoid-disaster/)
+- [Designing for Failure to Avoid Disaster](https://launchdarkly.com/blog/designing-for-failure-to-avoid-disaster/)
 
 ## Boilerplates
 
