@@ -137,6 +137,7 @@
 
 ## Open Source
 
+- [Ember LaunchDarkly wrapper](https://github.com/ember-launch-darkly/ember-launch-darkly)
 - [cryptocurrencytrader/react-launch-darkly](https://github.com/cryptocurrencytrader/react-launch-darkly)
 - [TrueCar/react-launch-darkly](https://github.com/TrueCar/react-launch-darkly)
 - [lectra-tech/ld-react-feature-flags](https://github.com/lectra-tech/ld-react-feature-flags)
