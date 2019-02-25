@@ -124,10 +124,6 @@
 
 </details>
 
-## Books
-
-- [Effective Feature Management](https://launchdarkly.com/downloads/EffectiveFeatureManagement_LaunchDarkly.pdf)
-- [Managing Feature Flags](https://www.oreilly.com/library/view/managing-feature-flags/9781492028598/)
 
 ## Documentation
 
