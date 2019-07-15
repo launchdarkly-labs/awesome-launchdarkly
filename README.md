@@ -41,6 +41,8 @@
 
 ## Articles
 
+- [Using the LaunchDarkly Relay Proxy for Fun and Profit](https://ld.click/LaunchdarklyRelay)
+
 - [How Atlassian Uses Feature Management to Continuously Deliver](https://thenewstack.io/how-atlassian-uses-feature-management-to-continuously-deliver/)
 
 - [Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
