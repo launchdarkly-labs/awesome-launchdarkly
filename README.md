@@ -96,7 +96,6 @@
 
 - [Android Hello LaunchDarkly](https://github.com/launchdarkly/hello-android)
 - [C Hello LaunchDarkly](https://github.com/launchdarkly/hello-c)
-- [ColdFusion Hello LaunchDarkly](https://github.com/launchdarkly/hello-cf)
 - [Go Hello LaunchDarkly](https://github.com/launchdarkly/hello-go)
 - [Java ☕️ Hello LaunchDarkly](https://github.com/launchdarkly/hello-java)
 - ## Apple
