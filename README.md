@@ -151,7 +151,7 @@
 - [launchdarkly/ld-openapi](https://github.com/launchdarkly/ld-openapi)
 - [ricardo-ch/xamarin-launchdarkly-ios](https://github.com/ricardo-ch/xamarin-launchdarkly-ios)
 - [api-stack-providers/launchdarkly](https://github.com/api-stack-providers/launchdarkly)
-- [Open Graph Tool](https://ld.click/opengraph)
+- [Open Graph Image as a Service](https://ld.click/opengraph)
 
 ## Podcasts
 
