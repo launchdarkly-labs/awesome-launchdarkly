@@ -24,7 +24,7 @@
 - [Videos](#videos)
 
 ## Apps
-
+- [LD Terraform Provider](https://launchdarkly.com/blog/launched-terraform-provider-for-launchdarkly/)
 - [LD Relay on docker hub](https://cloud.docker.com/u/launchdarkly/repository/docker/launchdarkly/ld-relay)
 - [yusinto/launchdarkly-app](https://github.com/yusinto/launchdarkly-app) - React Native example app
 - [levlaz/ld-ads-node](https://github.com/levlaz/ld-ads-node) - Node Consumer for the LD Analytics Data Stream
@@ -151,6 +151,7 @@
 - [launchdarkly/ld-openapi](https://github.com/launchdarkly/ld-openapi)
 - [ricardo-ch/xamarin-launchdarkly-ios](https://github.com/ricardo-ch/xamarin-launchdarkly-ios)
 - [api-stack-providers/launchdarkly](https://github.com/api-stack-providers/launchdarkly)
+- [Open Graph Tool](https://ld.click/opengraph)
 
 ## Podcasts
 
