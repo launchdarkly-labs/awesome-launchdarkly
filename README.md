@@ -142,6 +142,8 @@
 - [yusinto/ld-vue](https://github.com/yusinto/ld-vue)
 - [launchdarkly-dynamo-store](https://github.com/mlafeldt/launchdarkly-dynamo-store)
 - [yusinto/ld-redux](https://github.com/yusinto/ld-redux)
+- [ericlewis/LaunchDarkly-Combine/](https://github.com/ericlewis/LaunchDarkly-Combine)
+- [ericlewis/LaunchDarklySwiftUI/](https://github.com/ericlewis/LaunchDarklySwiftUI)
 
 ## Tools
 
