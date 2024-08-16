@@ -1,10 +1,9 @@
-# Awesome LaunchDarkly [![Awesome](https://awesome.re/badge-flat2.svg)](https://launchdarkly.com) [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/launchdarkly)
 
+
+# Awesome LaunchDarkly 
 <br>
 
-[<img src="media/LaunchDarkly_Icon_Navy.svg" align="right" width="100">](https://launchdarkly.com)
-
-> a curated list of how to dark launch
+> A list of tutorials, sample apps, blog posts, features, and more from DarkLaunchers and friends.
 
 - [Quick Start](https://docs.launchdarkly.com/docs/getting-started)
 
@@ -144,7 +143,7 @@
 - [yusinto/ld-redux](https://github.com/yusinto/ld-redux)
 
 ## Tools
-
+- [LaunchDarkly GitHub Copilot extension for VS Code](https://launchdarkly.com/blog/github-copilot-integration-ai-powered-feature-management/)
 - [launchdarkly/ld-vscode](https://github.com/launchdarkly/ld-vscode)
 - [coveo/launchdarkly-terraform-provider](https://github.com/coveo/launchdarkly-terraform-provider)
 - [mlafeldt/terraform-provider-launchdarkly](https://github.com/mlafeldt/terraform-provider-launchdarkly)
@@ -154,7 +153,6 @@
 - [Open Graph Image as a Service](https://ld.click/opengraph)
 
 ## Podcasts
-
 - [To Be Continuous](https://itunes.apple.com/us/podcast/to-be-continuous/id1107185328?mt=2)
 
 ## Videos
@@ -180,19 +178,9 @@
 - [10 Ways to Use Feature Flags](https://www.mindtheproduct.com/2017/01/10-ways-use-feature-flags/)
 
 ## Community
-
-- [Discuss](https://spectrum.chat/launchdarkly)
-- [Stack Overflow](https://stackoverflow.com/search?tab=votes&q=%22feature%20flag%22)
+- [ LaunchDarkly Discord ] (https://discord.gg/launchdarklycommunity)
 - [`@launchdarkly` on Twitter](https://twitter.com/launchdarkly)
-- [Product Hunt](https://www.producthunt.com/posts/launchdarkly-2)
 
-## Tips
-
-- Contribute some ;)
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
 
